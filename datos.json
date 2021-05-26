@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "2020-05-29T03:00:00.000Z",
+    "contenido": "Esta es mi primer nota",
+    "autor": {
+      "nombre": "Juan",
+      "apellido": "Quattordio",
+      "correo": "juanquattordio@gmail.com"
+    }
+  },
+  {
+    "fecha": "2021-06-22T03:00:00.000Z",
+    "contenido": "Esta es mi segunda nota",
+    "autor": {
+      "nombre": "Juan",
+      "apellido": "Quattordio",
+      "correo": "juanquattordio@gmail.com"
+    }
+  },
+  {
+    "fecha": "2020-05-22T03:00:00.000Z",
+    "contenido": "Esta es mi primer nota",
+    "autor": {
+      "nombre": "Pedro",
+      "apellido": "Fernandez",
+      "correo": "pf@gmail.com"
+    }
+  },
+  {
+    "fecha": "2022-10-29T03:00:00.000Z",
+    "contenido": "Tambien es mi primer nota",
+    "autor": {
+      "nombre": "Carlos",
+      "apellido": "Juarez",
+      "correo": "cj@gmail.com"
+    }
+  }
+]
