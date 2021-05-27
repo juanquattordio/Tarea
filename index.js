@@ -38,6 +38,7 @@ var libretaNotas = new LibretaNotas_1["default"];
 libretaNotas.getNotas().push(nota1, nota2, nota3);
 libretaNotas.cargarNota(nota4);
 //libretaNotas.eliminarNota(notas2,2);
+
 var notas2 = libretaNotas.getNotas();
 var filtroAutor = "Quattordio";
 var filtroFecha = new Date(2021, 1 - 1, 1);
